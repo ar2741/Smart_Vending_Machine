@@ -1,3 +1,3 @@
-# Smart_Vending_Machine
+# Hand Detection System
 # LINK
 # https://tinyurl.com/3njrrfny
